@@ -10,7 +10,12 @@ products = [
     {"id": 2, "name": "Latte", "price": 30, "description": "Kopi espresso dicampur dengan susu hangat, disajikan dengan foam di atasnya."},
     {"id": 3, "name": "Cappuccino", "price": 30, "description": "Kombinasi espresso, susu, dan foam yang seimbang dengan taburan bubuk cokelat."},
     {"id": 4, "name": "Cold Brew", "price": 35, "description": "Kopi diseduh dingin selama 12 jam untuk rasa kopi yang lebih halus."},
-    {"id": 5, "name": "Matcha Latte", "price": 28, "description": "Latte hijau dengan bubuk matcha berkualitas tinggi, cocok untuk pecinta teh."}
+    {"id": 5, "name": "Matcha Latte", "price": 28, "description": "Latte hijau dengan bubuk matcha berkualitas tinggi, cocok untuk pecinta teh."},
+    {"id": 6, "name": "Mocha", "price": 32, "description": "Kopi dengan campuran cokelat dan susu, menciptakan rasa manis yang nikmat."},
+    {"id": 7, "name": "Affogato", "price": 40, "description": "Kombinasi es krim vanilla dengan shot espresso panas, perpaduan unik kopi dan es krim."},
+    {"id": 8, "name": "Americano", "price": 22, "description": "Kopi hitam ringan yang dibuat dengan menambahkan air panas pada espresso."},
+    {"id": 9, "name": "Iced Caramel Macchiato", "price": 37, "description": "Minuman dingin dengan espresso, susu, dan sirup karamel yang manis."},
+    {"id": 10, "name": "Chai Latte", "price": 30, "description": "Campuran teh hitam dengan rempah-rempah dan susu, memberikan rasa hangat yang khas."}
 ]
 
 class ProductList(Resource):
